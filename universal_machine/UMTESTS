@@ -1,0 +1,15 @@
+add.um
+cmov.um
+divide.um
+goto.um
+halt.um
+input.um
+loadprog.um
+load.um
+map.um
+multiply.um
+nand.um
+output.um
+seg_load.um
+seg_store.um
+unmap.um
