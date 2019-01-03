@@ -1,2 +1,2 @@
-Repository containing different samples of my code
+Repository containing different code samples
 
